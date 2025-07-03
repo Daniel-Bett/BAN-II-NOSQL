@@ -1,0 +1,5 @@
+{"_id": {"$oid": "685b3c3c744f7171c07fcc31"}, "idfuncionario": 1, "nmfuncionario": "Alice Silva", "iddepartamento": 3}
+{"_id": {"$oid": "685b3c3c744f7171c07fcc32"}, "idfuncionario": 2, "nmfuncionario": "Bruno Costa", "iddepartamento": 1}
+{"_id": {"$oid": "685b3c3c744f7171c07fcc33"}, "idfuncionario": 3, "nmfuncionario": "Carla Mendes", "iddepartamento": 2}
+{"_id": {"$oid": "685b3c3c744f7171c07fcc34"}, "idfuncionario": 4, "nmfuncionario": "Diego Rocha", "iddepartamento": 3}
+{"_id": {"$oid": "685b3c3c744f7171c07fcc35"}, "idfuncionario": 5, "nmfuncionario": "Joelinton Silva", "iddepartamento": 3}

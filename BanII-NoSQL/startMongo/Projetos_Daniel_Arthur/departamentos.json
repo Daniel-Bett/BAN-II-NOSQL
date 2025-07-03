@@ -1,0 +1,4 @@
+{"_id": {"$oid": "685b3c92744f7171c07fcc4d"}, "iddepartamento": 1, "nmdepartamento": "Desenvolvimento"}
+{"_id": {"$oid": "685b3c92744f7171c07fcc4e"}, "iddepartamento": 2, "nmdepartamento": "Marketing"}
+{"_id": {"$oid": "685b3c92744f7171c07fcc4f"}, "iddepartamento": 3, "nmdepartamento": "RH"}
+{"_id": {"$oid": "6866fef1aa4fcd7bc218c0e7"}, "iddepartamento": 4, "nmdepartamento": "Financeiro"}
