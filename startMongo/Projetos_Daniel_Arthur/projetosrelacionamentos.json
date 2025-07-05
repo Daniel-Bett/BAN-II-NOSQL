@@ -1,0 +1,4 @@
+{"_id": {"$oid": "685b3c56744f7171c07fcc38"}, "idrelacionamento": 2, "idprojeto": 1, "idprojetorelacionado": 3}
+{"_id": {"$oid": "685f39ed4cba6dcd4eedc551"}, "idrelacionamento": 3, "idprojeto": "1", "idprojetorelacionado": 3}
+{"_id": {"$oid": "685f4f1c080c1e496d98b50e"}, "idrelacionamento": 4, "idprojeto": 2, "idprojetorelacionado": 9}
+{"_id": {"$oid": "685f4fb0d65ea4255efc92e8"}, "idrelacionamento": 5, "idprojeto": 1, "idprojetorelacionado": 2}
