@@ -14,5 +14,4 @@
 {"_id": {"$oid": "685b3c85744f7171c07fcc49"}, "idatividade": 15, "nmatividade": "Configura\u00e7\u00e3o do Servidor", "descricao": "Setup inicial do ambiente", "datainicio": {"$date": "2024-03-17T00:00:00Z"}, "datafim": null, "situacao": "Pendente", "idprojeto": 5, "idresponsavel": 2}
 {"_id": {"$oid": "685b3c85744f7171c07fcc4a"}, "idatividade": 16, "nmatividade": "Implementa\u00e7\u00e3o Login", "descricao": "Sistema de autentica\u00e7\u00e3o com JWT", "datainicio": {"$date": "2024-03-18T00:00:00Z"}, "datafim": null, "situacao": "Pendente", "idprojeto": 5, "idresponsavel": 1}
 {"_id": {"$oid": "685b3c85744f7171c07fcc4b"}, "idatividade": 17, "nmatividade": "Teste de Usabilidade", "descricao": "Aplica\u00e7\u00e3o de testes com usu\u00e1rios reais", "datainicio": {"$date": "2024-03-20T00:00:00Z"}, "datafim": null, "situacao": "Pendente", "idprojeto": 5, "idresponsavel": 3}
-{"_id": {"$oid": "685f38ed1b53302415d8e17b"}, "idatividade": 18, "nmatividade": "atv", "descricao": "desv", "datainicio": "2025-05-20", "datafim": null, "situacao": "Pendente", "idprojeto": "11", "idresponsavel": "4"}
-{"_id": {"$oid": "685f49c15b5d953c3c5d4a44"}, "idatividade": 19, "nmatividade": "ATV TESTE", "descricao": "desc", "datainicio": "2025-05-05", "datafim": "2025-06-27", "situacao": "Encerrado", "idprojeto": 5, "idresponsavel": 2}
+
