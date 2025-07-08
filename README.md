@@ -5,6 +5,9 @@ Arthur Lucena
 
 Daniel Bett
 
+## Youtube
+Link para video do Youtube: https://youtu.be/WRsKTb9UpME
+
 ## Visão Geral
 
 Este é um sistema de gerenciamento de projetos desenvolvido em Python com MongoDB, que permite:
